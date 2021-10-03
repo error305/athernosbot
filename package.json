@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MannuG",
-  "license": "ISC",
+  "author": "error304",
+  "license": "none",
   "dependencies": {
     "config": "^3.3.3",
     "fs": "0.0.1-security",
